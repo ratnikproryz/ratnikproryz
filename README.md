@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @ratnikproryz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ratnikproryz/ratnikproryz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                              _
+                           _ooOoo_
+                          o8888888o
+                          88" . "88
+                          (| -_- |)
+                          O\  =  /O
+                       ____/`---'\____
+                     .'  \\|     |//  `.
+                    /  \\|||  :  |||//  \
+                   /  _||||| -:- |||||_  \
+                   |   | \\\  -  /'| |   |
+                   | \_|  `\`---'//  |_/ |
+                   \  .-\__ `-. -'__/-.  /
+                 ___`. .'  /--.--\  `. .'___
+              ."" '<  `.___\_<|>_/___.' _> \"".
+             | | :  `- \`. ;`. _/; .'/ /  .' ; |
+             \  \ `-.   \_\_`. _.'_/_/  -' _.' /
+   ===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
+                           `=--=-'                    
