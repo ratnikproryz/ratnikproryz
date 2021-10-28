@@ -17,4 +17,5 @@
              \  \ `-.   \_\_`. _.'_/_/  -' _.' /
               `-.`___`-.__\ \___  /__.-'_.'_.-'
                            `=--=-'                    
-            Code không có bug cả đời an nhiên!🐧
+            Bug khong tự nhiên sinh ra và mất đi.
+     Nó chỉ truyền từ đoạn code này sang đoạn code khác.🐧
