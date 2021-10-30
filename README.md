@@ -17,5 +17,5 @@
              \  \ `-.   \_\_`. _.'_/_/  -' _.' /
               `-.`___`-.__\ \___  /__.-'_.'_.-'
                            `=--=-'                    
-            Bug khong tự nhiên sinh ra và mất đi.
+            Bug không tự nhiên sinh ra và mất đi.
      Nó chỉ truyền từ đoạn code này sang đoạn code khác.🐧
