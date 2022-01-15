@@ -14,4 +14,4 @@
                     　 ヽ_ﾉ　　(_／　 │／／ 
                     　　7　　　　　　　|／ 
                     　　＞―r￣￣\`ｰ―＿_-\`
-                   Fix bugs đi, nhìn cái gì!!!
+                      😑Nothing to say!😑
