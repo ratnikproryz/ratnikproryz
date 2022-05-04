@@ -14,4 +14,4 @@
                     　 ヽ_ﾉ　　(_／　 │／／ 
                     　　7　　　　　　　|／ 
                     　　＞―r￣￣\`ｰ―＿_-\`
-                      😑Nothing to say!😑
+               🥱Vội đến, vội đi, vội nhạt nhòa🥱
