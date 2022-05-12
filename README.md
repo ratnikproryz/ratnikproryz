@@ -12,4 +12,4 @@
             　　7　　　　　　　|'／ 
             　　＞―r￣￣\`ｰ―_-\`
            Cho anh order 1 ly bạc xỉu
-        trước tình cảm của em dành cho anh
+       trước tình cảm của em dành cho anh
