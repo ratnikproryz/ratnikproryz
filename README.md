@@ -1,7 +1,7 @@
 # Hi, I'm Pham Toan Phuc 👋 
 
  I'm a 2nd year student at VKU! <br>
- As an IT student, I occasionally feel hurt and depressed. The most crucial thing is that I found my inner strength and fight for it. Although everyone of us faces unique challenges, the most crucial thing is to believe in our own value. Continue to write about your life with passion and courage. Let's fight for our dreams since each of us is a warrior.
+ As an IT student, I occasionally feel hurt and depressed. The most crucial thing is that I found my inner strength and fight for it. Although everyone of us faces unique challenges, the most crucial thing is to believe in our own value. Continue to write your codes with passion and courage. Let's fight for our dreams since each of us is a warrior.
 
 ## My Skills:
 
