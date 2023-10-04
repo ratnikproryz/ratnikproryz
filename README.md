@@ -8,6 +8,8 @@
 
 <img src = "https://img.shields.io/badge/reactjs-0074a6?style=for-the-badge&logo=react&logoColor=white"> <img src = "https://img.shields.io/badge/vuejs-42b883?style=for-the-badge&logo=vue&logoColor=white">
 
+<img src = "https://img.shields.io/badge/react%20native-0074a6?style=for-the-badge&logo=react&logoColor=white">
+
 ## Back-end Skills:
 
 <img src = "https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"> <img src = "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src = "https://img.shields.io/badge/nodejs-42b883?style=for-the-badge&logo=nodejs&logoColor=white">
