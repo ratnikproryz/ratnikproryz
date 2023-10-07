@@ -19,6 +19,5 @@
 
 
 ## My Github Stats
-![Rum's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratnikproryz&theme=cobalt2&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnikproryz&langs_count=10&layout=compact)
